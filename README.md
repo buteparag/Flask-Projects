@@ -12,4 +12,4 @@ Implemented Linear Regression Algorithum.
 
 Testing the Model New observation.
 
-Model Deployment Using Flask Framework.
+Model Deployment Using Flask Frameworks.
